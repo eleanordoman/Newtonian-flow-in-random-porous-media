@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Newtonian flow in random porous media
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eleanor
+    family-names: Doman
+    email: eleanor.doman@manchester.ac.uk
+    orcid: 'https://orcid.org/0000-0002-4078-4749'
